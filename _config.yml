@@ -67,6 +67,17 @@ content:
         caption: 2016-2021
         description: | # this will include new lines to allow paragraphs
           Completed the undergraduate computer science degree and published two smaller papers with <mark>ACM</mark> during final year.
+  - title: Skills
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      - AWS 
+      - SQL and NoSQL
+      - MongoDB
+      - DynamoDB
+      - PHP
+      - HTML, CSS and JS 
+      - React, Nodejs, ES6
+      - Mongoose, Axios, Serverless, and assorted other JS libraries
   - title: Interests
     layout: text
     content: | # this will include new lines to allow paragraphs
