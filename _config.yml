@@ -49,7 +49,7 @@ content:
         caption: October 2023 - Now
         link: ridewta.com
         description: | # this will include new lines to allow paragraphs
-          Developing an internal application used to deliver service and disruption notices to rides and stakeholders.
+          Developing an internal application used to deliver service and disruption notices to riders and stakeholders. Using <mark>Serverless</mark>, AWS <mark>API Gateways</mark>, <mark>React</mark>, AWS <mark>Lambda</mark> and <mark>DynamoDB</mark>.
   - title: Education
     layout: list
     content:
