@@ -66,12 +66,16 @@ content:
         sub_title: BS in Computer Science
         caption: 2016-2021
         description: | # this will include new lines to allow paragraphs
-  - title: A Little More About Me
+          Completed the undergraduate computer science degree and published two smaller papers with <mark>ACM</mark> during final year.
+  - title: Interests
     layout: text
     content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+      - Public Transit
+      - Ornithology
+      - Volcanology
+      - Geology
+      - Worldbuilding
+      - Board Games!
 
 # Footer
 footer_show_references: true
