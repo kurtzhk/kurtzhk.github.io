@@ -56,13 +56,16 @@ content:
     layout: list
     content:
       - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
-        quote: >
-          Short institution or course description (optional)
+        title: Western Washington University
+        sub_title: Masters of Computer Science
+        caption: 2021-Current
         description: | # this will include new lines to allow paragraphs
-          Description of qualification
+          Working towards completing a Masters with a research focus on accessible technology.
+      - layout: top-right
+        title: Western Washington University
+        sub_title: BS in Computer Science
+        caption: 2016-2021
+        description: | # this will include new lines to allow paragraphs
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
