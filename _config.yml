@@ -8,7 +8,7 @@ version: 2
 # Personal info
 name: Kale Kurtzhall
 title: Internal Applications Specialist
-email: kurtzhk at wwu
+email: kurtzhk(at)wwu.edu
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
@@ -37,29 +37,9 @@ linkedin_username: kalekurtzhall
 # about_title: About Me (Use this to override about section title)
 about_profile_image: st00pid.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I'm Kale, a computer science graduate student with a focus on <mark>AWS</mark> and <mark></mark>.
+  I'm Kale, a computer science graduate student with a focus on <mark>AWS</mark> and <mark>databases</mark>. Accessible technology and full stack web dev are interests of mine.
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
-        title: Project name
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
-        additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          Short overview of the project (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
   - title: Experience
     layout: list
     content:
