@@ -44,14 +44,12 @@ content:
     layout: list
     content:
       - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
-        quote: >
-          Short description of the company (optional)
+        title: Whatcom Transit Authority
+        sub_title: Internal Applications Specialist
+        caption: October 2023 - Now
+        link: ridewta.com
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          Developing an internal application used to deliver service and disruption notices to rides and stakeholders.
   - title: Education
     layout: list
     content:
@@ -78,6 +76,9 @@ content:
       - HTML, CSS and JS 
       - React, Nodejs, ES6
       - Mongoose, Axios, Serverless, and assorted other JS libraries
+      - C
+      - C++, Java, Rust
+      - Lua, GDScript, C#
   - title: Interests
     layout: text
     content: | # this will include new lines to allow paragraphs
