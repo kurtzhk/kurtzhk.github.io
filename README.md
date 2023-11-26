@@ -1,1 +1,1 @@
-Resume template (https://github.com/sproogen/modern-resume-theme)[from here.]
+Resume template from here: https://github.com/sproogen/modern-resume-them 
